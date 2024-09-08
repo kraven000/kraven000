@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kraven000&hide_progress=true" alt="kraven000" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kraven000&" alt="kraven000" /></p>
+<p><img align="center" src="(https://streak-stats.demolab.com?user=kraven000&theme=tokyonight-duo&hide_border=true&border_radius=5" alt="kraven000" /></p>
