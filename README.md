@@ -1,7 +1,8 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <h1 align="center">Hi 👋, I'm Akhilesh Verma</h1>
-<h3 align="center">I am just a high school student, which is learning how to code, since 2021.</h3>
+<h3 align="center">Any fool can write code that a computer can understand. Good programmers write code that humans can understand</h3>
+<h3 align="right">- Martin Fowler</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kraven000&label=Profile%20views&color=0e75b6&style=flat" alt="kraven000" /> </p>
