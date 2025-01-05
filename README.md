@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **akhisanjayverma26@gmail.com**
 
-- ⚡ Fun fact **I am a ghost 👻👻**
+- ⚡ Fun fact **A traveler with an eye for luxury, you're on a mission to explore every corner of Japan while also harnessing your Python skills to create unique tech projects from weather apps to stargazing guides!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
