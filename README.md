@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **akhisanjayverma26@gmail.com**
 
-- ⚡ Fun fact ###I'm an aspiring Python programmer with a passion for building impactful projects! I’m currently working on a weather and air quality app and a light pollution detector, all while planning to visit every corner of Japan (luxury style!). When I’m not coding, you’ll find me researching the best stargazing spots and perfecting my travel plans. 🌍✨
+- ⚡ Fun fact #I'm an aspiring Python programmer with a passion for building impactful projects! I’m currently working on a weather and air quality app and a light pollution detector, all while planning to visit every corner of Japan (luxury style!). When I’m not coding, you’ll find me researching the best stargazing spots and perfecting my travel plans. 🌍✨
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
